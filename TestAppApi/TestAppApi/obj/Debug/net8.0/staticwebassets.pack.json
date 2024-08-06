@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Simon\\source\\repos\\TestAppApi\\TestAppApi\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TestAppApi.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TestAppApi.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Simon\\source\\repos\\TestAppApi\\TestAppApi\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Simon\\source\\repos\\TestAppApi\\TestAppApi\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Simon\\source\\repos\\TestAppApi\\TestAppApi\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Simon\\source\\repos\\TestAppApi\\TestAppApi\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TestAppApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TestAppApi.props",
+      "PackagePath": "build\\TestAppApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TestAppApi.props",
+      "PackagePath": "buildMultiTargeting\\TestAppApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TestAppApi.props",
+      "PackagePath": "buildTransitive\\TestAppApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
